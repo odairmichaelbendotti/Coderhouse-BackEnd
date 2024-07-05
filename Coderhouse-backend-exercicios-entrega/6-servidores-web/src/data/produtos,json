@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Curso de HTML e CSS",
+        "description": "Aprenda a criar sites com HTML e CSS do básico ao avançado.",
+        "price": 100.0,
+        "category": "Desenvolvimento Web"
+    },
+    {
+        "id": 2,
+        "name": "Curso de JavaScript",
+        "description": "Domine a linguagem JavaScript e desenvolva aplicações web dinâmicas.",
+        "price": 150.0,
+        "category": "Desenvolvimento Web"
+    },
+    {
+        "id": 3,
+        "name": "Curso de React",
+        "description": "Crie interfaces de usuário modernas e eficientes com React.",
+        "price": 200.0,
+        "category": "Desenvolvimento Web"
+    },
+    {
+        "id": 4,
+        "name": "Curso de Node.js",
+        "description": "Desenvolva servidores e APIs robustas com Node.js.",
+        "price": 250.0,
+        "category": "Desenvolvimento Web"
+    },
+    {
+        "id": 5,
+        "name": "Curso de Vue.js",
+        "description": "Construa aplicações web reativas e rápidas com Vue.js.",
+        "price": 300.0,
+        "category": "Desenvolvimento Web"
+    },
+    {
+        "id": 6,
+        "name": "Curso de Angular",
+        "description": "Aprenda a desenvolver aplicações web escaláveis com Angular.",
+        "price": 350.0,
+        "category": "Desenvolvimento Web"
+    },
+    {
+        "id": 7,
+        "name": "Curso de TypeScript",
+        "description": "Adicione tipagem estática ao JavaScript com TypeScript.",
+        "price": 400.0,
+        "category": "Desenvolvimento Web"
+    },
+    {
+        "id": 8,
+        "name": "Curso de Next.js",
+        "description": "Desenvolva aplicações React com renderização no servidor utilizando Next.js.",
+        "price": 450.0,
+        "category": "Desenvolvimento Web"
+    },
+    {
+        "id": 9,
+        "name": "Curso de SASS",
+        "description": "Escreva CSS de forma mais eficiente e modular utilizando SASS.",
+        "price": 500.0,
+        "category": "Desenvolvimento Web"
+    },
+    {
+        "id": 10,
+        "name": "Curso de Webpack",
+        "description": "Gerencie e empacote seus módulos JavaScript com Webpack.",
+        "price": 550.0,
+        "category": "Desenvolvimento Web"
+    }
+]
